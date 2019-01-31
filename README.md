@@ -1,0 +1,2 @@
+# mighty
+web application
